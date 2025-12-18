@@ -1,3 +1,42 @@
+# 📘 English Dictionary
+
+A simple and interactive **English Dictionary web application** built using **HTML, CSS, and JavaScript**.  
+It allows users to search for English words and view their **definitions, phonetics, part of speech, examples, and pronunciation audio**.  
+It also includes a **Dark / Light mode toggle** for better user experience.
+
+
+## 🛠️ Technologies Used
+
+- **HTML5** – Structure
+- **CSS3** – Styling & Dark Mode
+- **JavaScript (ES6)** – Logic & API handling
+- **Free Dictionary API** – Word data
+
+## ✨ Features
+
+- 🔍 Search English words instantly
+- 📖 Displays:
+  - Word meaning
+  - Phonetic pronunciation
+  - Part of speech
+  - Example usage
+- 🔊 Audio pronunciation (if available)
+- 🌙 Dark / Light mode toggle
+- ⚡ Fast and responsive UI
+- ❌ Error handling for invalid words
+
+
+
+
+
+
+
+
+
+
+
+
+
 🙋‍♀️ Author
 
 Manaswini Sasmal
