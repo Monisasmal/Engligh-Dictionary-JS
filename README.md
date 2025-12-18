@@ -3,6 +3,11 @@
 A simple and interactive **English Dictionary web application** built using **HTML, CSS, and JavaScript**.  
 It allows users to search for English words and view their **definitions, phonetics, part of speech, examples, and pronunciation audio**.  
 It also includes a **Dark / Light mode toggle** for better user experience.
+---
+
+## 🌐 [Live Demo](https://fitness-club-raect-manaswini-sasmals-projects.vercel.app/)
+
+---
 
 
 ## 🛠️ Technologies Used
@@ -11,6 +16,8 @@ It also includes a **Dark / Light mode toggle** for better user experience.
 - **CSS3** – Styling & Dark Mode
 - **JavaScript (ES6)** – Logic & API handling
 - **Free Dictionary API** – Word data
+
+---
 
 ## ✨ Features
 
@@ -25,17 +32,13 @@ It also includes a **Dark / Light mode toggle** for better user experience.
 - ⚡ Fast and responsive UI
 - ❌ Error handling for invalid words
 
+---
 
+📸 Preview
 
-
-
-
-
-
-
-
-
-
+<img width="1224" height="625" alt="image" src="https://github.com/user-attachments/assets/76296d82-9a17-4307-a735-b0c7bd506f1e" />
+<img width="1352" height="633" alt="image" src="https://github.com/user-attachments/assets/65869e09-9968-4f92-b583-6757b7cc6e36" />
+---
 
 🙋‍♀️ Author
 
