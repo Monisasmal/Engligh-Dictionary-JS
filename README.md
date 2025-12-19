@@ -7,7 +7,7 @@ It also includes a **Dark / Light mode toggle** for better user experience.
 
 ---
 
-## 🌐 [Live Demo](https://fitness-club-raect-manaswini-sasmals-projects.vercel.app/)
+## 🌐 [Live Demo](https://monisasmal.github.io/Engligh-Dictionary-JS/)
 
 ---
 
