@@ -43,9 +43,7 @@ It also includes a **Dark / Light mode toggle** for better user experience.
 
 ---
 
-🙋‍♀️ Author
-
-Manaswini Sasmal
+## 🙋‍♀️ Author - Manaswini Sasmal
 
 📲 - 6370094643
 
